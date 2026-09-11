@@ -1,0 +1,24 @@
+{
+  "name": "My Local Source",
+  "identifier": "com.yourname.localsource",
+  "apps": [
+    {
+      "name": "Eevee",
+      "bundleIdentifier": "com.example.myapp",
+      "developerName": "You",
+      "subtitle": "Personal build",
+      "localizedDescription": "Sideloaded app for personal use.",
+      "iconURL": "https://raw.githubusercontent.com/yourname/my-altstore-source/main/icon.png",
+      "tintColor": "3477F5",
+      "versions": [
+        {
+          "version": "1.0",
+          "date": "2026-09-11",
+          "downloadURL": "https://media.githubusercontent.com/media/yourname/my-altstore-source/main/EeveeSpotify-9.1.80-ESR-6.6.8-LG-patched.ipa",
+          "size": 12345678,
+          "minOSVersion": "15.0"
+        }
+      ]
+    }
+  ]
+}
